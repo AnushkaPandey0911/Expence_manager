@@ -1,11 +1,5 @@
 package Expence;
-/**
- * @author Varun Iyer
- * @version 2.1
- * @param date - accepts the date of a current entry
- * @param item - accepts the current item name
- * @param cost - accepts the expense done on the current day
- */
+
 public class Log {
 
 	private String date;
