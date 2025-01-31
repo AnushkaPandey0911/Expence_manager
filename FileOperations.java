@@ -12,12 +12,6 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 
 /**
- * @author Varun Iyer
- * @version 2.1
- * Deals with all the File related operation
- */
-
-/**
  * A new method called open file, called inside the updateLogBook method, which will open the file of a particular date and month. (done)
  * A new Log and Budget for each month should be created{
  * >>Use a single file for storing both log and (budget + expense)
